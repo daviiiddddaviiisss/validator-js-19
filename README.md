@@ -1,2 +1,4 @@
-# validator-js-19
+# Validator Js 19
+
 Regular expression check helper for email strings in JavaScript.
+
